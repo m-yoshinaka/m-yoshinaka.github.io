@@ -4,7 +4,7 @@ author: "Masato Yoshinaka"
 ---
 
 ## About Me
-**吉仲 真人 [Yoshinaka Masato]**
+**吉仲 真人** [Yoshinaka Masato]
 
 大阪大学大学院情報科学研究科 マルチメディア工学専攻 \
 ビッグデータ工学講座
@@ -53,7 +53,3 @@ GitHub : [@m-yoshinaka](https://github.com/m-yoshinaka/)
   大阪大学 工学部電子情報工学科 入学
 * 2016年3月  \
   岡山県立 倉敷南高等学校 卒業
-
----
-
-## News

@@ -9,7 +9,7 @@ enableRobotsTXT = true
 hasCJKLanguage = true
 
 paginate = 3
-summarylength = 3
+summarylength = 10
 
 # Google Analytics
 googleAnalytics = "UA-161531787-1"
@@ -26,7 +26,11 @@ pygmentsCodefencesGuessSyntax = true
   author = "Masato Yoshinaka"
   copyright = "2019-2021"
   profilePicture = "images/1522491808597.jpg"
-  mainSections = ["post"]
+  mainSections = [""]
+
+  singleDateFormat = "2006-01-02"
+  indexDateFormat = "2006-01-02"
+  listDateFormat = "2006-01-02"
 
   ## Math settings
   [[params.math]]
