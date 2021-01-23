@@ -1,0 +1,66 @@
+baseURL = "https://m-yoshinaka.github.io/"
+languageCode = "ja-jp"
+DefaultContentLanguage = "ja-jp"
+title = "Website of Masato Yoshinaka"
+theme = "anatole"
+
+enableEmoji = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+
+paginate = 3
+summarylength = 3
+
+# Google Analytics
+googleAnalytics = "UA-161531787-1"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+
+  title = "Masato Yoshinaka"
+  description = "First-year master’s student in Osaka University"
+  author = "Masato Yoshinaka"
+  copyright = "2019-2021"
+  profilePicture = "images/1522491808597.jpg"
+  mainSections = ["post"]
+
+  ## Math settings
+  [[params.math]]
+    enable = false
+    use = "katex"
+
+  ## Social links
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/m-yoshinaka"
+
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:yoshinaka.masato[at]ist.osaka-u.ac.jp"
+
+## Menu items
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "English"
+  weight = 300
+  identifier = "english"
+  url = "/en/"
