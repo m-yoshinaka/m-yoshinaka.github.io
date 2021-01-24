@@ -4,7 +4,7 @@ author: "Masato Yoshinaka"
 ---
 
 ## About Me
-**吉仲 真人** [Yoshinaka Masato]
+吉仲 真人 [Yoshinaka Masato]
 
 大阪大学大学院情報科学研究科 マルチメディア工学専攻 \
 ビッグデータ工学講座
@@ -19,7 +19,7 @@ GitHub : [@m-yoshinaka](https://github.com/m-yoshinaka/)
 ## Research Interests
 * 自然言語処理
 * 言い換え
-* フレーズアライメント
+* フレーズアラインメント
 
 
 ## Publications
@@ -34,8 +34,8 @@ GitHub : [@m-yoshinaka](https://github.com/m-yoshinaka/)
 * 吉仲真人, 梶原智之, 荒瀬由紀.
   **単語分散表現に基づく単一言語内フレーズアライメント手法.**
   言語処理学会第26回年次大会 ([NLP 2020](https://www.anlp.jp/nlp2020/)), pp.581-584. March 2020.
-  **[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/C3-3.pdf)
-   [[Slides]](/pdf/nlp2020_yoshinaka.pdf)**
+  **[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/C3-3.pdf)**
+  **[[Slides]](/pdf/nlp2020_yoshinaka.pdf)**
 
 * 吉仲真人, 梶原智之, 荒瀬由紀.
   **言い換えエラー分析のための言い換え分解ツールの試作.**

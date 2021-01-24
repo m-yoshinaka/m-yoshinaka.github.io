@@ -3,9 +3,10 @@ author: "Masato Yoshinaka"
 ---
 
 ## About Me
-#### Masato Yoshinaka
+Masato YOSHINAKA
 
-First-year master's student @ [Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/) \
+First-year master's student \
+[Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/) \
 Graduate School of Information Science and Technology, Osaka University, Japan
 
 
