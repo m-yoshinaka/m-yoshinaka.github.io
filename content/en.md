@@ -6,7 +6,7 @@ author: "Masato Yoshinaka"
 Masato YOSHINAKA
 
 First-year master's student \
-[Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/) \
+[Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/) \
 Graduate School of Information Science and Technology, Osaka University, Japan
 
 
