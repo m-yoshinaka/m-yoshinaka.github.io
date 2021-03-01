@@ -11,9 +11,6 @@ hasCJKLanguage = true
 paginate = 3
 summarylength = 10
 
-# Google Analytics
-googleAnalytics = "UA-161531787-1"
-
 # Syntax highlighting
 pygmentsUseClasses = true
 pygmentsCodeFences = true
