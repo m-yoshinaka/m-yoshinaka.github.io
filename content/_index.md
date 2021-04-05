@@ -9,7 +9,7 @@ author: "Masato Yoshinaka"
 大阪大学大学院情報科学研究科 マルチメディア工学専攻 \
 ビッグデータ工学講座
 ([鬼塚研](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)) \
-修士課程 1年
+修士課程 2年
 
 
 Email : yoshinaka.masato[at]ist.osaka-u.ac.jp\
