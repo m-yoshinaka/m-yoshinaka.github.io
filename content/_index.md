@@ -26,7 +26,7 @@ GitHub : [@m-yoshinaka](https://github.com/m-yoshinaka/)
 ### 論文誌 (査読あり)
 * 吉仲真人, 梶原智之, 荒瀬由紀.
   **単語分散表現に基づく単一言語内フレーズアラインメント.**
-  自然言語処理, Vol.28, No.2, pp.?-?, June 2021.
+  自然言語処理, Vol.28, No.2, pp.508-531, June 2021.
 
 ### 国際会議 (査読あり)
 * M. Yoshinaka, T. Kajiwara, Y. Arase.

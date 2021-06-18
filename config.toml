@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
   description = "Second-year master’s student in Osaka University"
   author = "Masato Yoshinaka"
   copyright = "2019-2021"
-  profilePicture = "images/1522491808597.jpg"
+  profilePicture = "images/icon.jpg"
   mainSections = [""]
 
   singleDateFormat = "2006-01-02"
