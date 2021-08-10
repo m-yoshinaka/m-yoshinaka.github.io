@@ -53,16 +53,16 @@ pygmentsCodefencesGuessSyntax = true
   url = "/"
 
   [[menu.main]]
-  name = "CONTACT"
-  weight = 200
-  identifier = "contact"
-  url = "/contact"
-
-  [[menu.main]]
   name = "NEWS"
-  weight = 300
+  weight = 200
   identifier = "news"
   url = "/post/"
+
+  [[menu.main]]
+  name = "CONTACT"
+  weight = 300
+  identifier = "contact"
+  url = "/contact"
 
 [Languages]
 
