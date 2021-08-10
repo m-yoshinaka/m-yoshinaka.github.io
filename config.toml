@@ -1,6 +1,6 @@
 baseURL = "https://m-yoshinaka.github.io/"
-languageCode = "ja-jp"
-DefaultContentLanguage = "ja-jp"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "Website of Masato Yoshinaka"
 theme = "anatole"
 
@@ -24,17 +24,16 @@ pygmentsCodefencesGuessSyntax = true
   copyright = "2019-2021"
   profilePicture = "images/icon.jpg"
   mainSections = [""]
+  customCss = ["css/custom.css"]
+  doNotLoadAnimations = true
 
   singleDateFormat = "2006-01-02"
   indexDateFormat = "2006-01-02"
-  listDateFormat = "January 02, 2006"
+  listDateFormat = "2006-01-02"
 
-  ## Math settings
-  [[params.math]]
-    enable = false
-    use = "katex"
+  gtagId = "G-ZLNB31L9E0"
 
-  ## Social links
+  # Social links
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "GitHub"
@@ -45,23 +44,54 @@ pygmentsCodefencesGuessSyntax = true
     title = "e-mail"
     url = "mailto:yoshinaka.masato[at]ist.osaka-u.ac.jp"
 
-## Menu items
 [menu]
 
   [[menu.main]]
-  name = "Home"
-  identifier = "home"
+  name = "ABOUT"
+  identifier = "about"
   weight = 100
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "CONTACT"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "contact"
+  url = "/contact"
 
   [[menu.main]]
-  name = "English"
+  name = "NEWS"
   weight = 300
-  identifier = "english"
-  url = "/en/"
+  identifier = "news"
+  url = "/post/"
+
+[Languages]
+
+  [Languages.en]
+  title = "Masato Yoshinaka"
+  LanguageName = "English"
+  contentDir = "content/en"
+  weight = 2
+
+  [Languages.ja]
+  title = "Masato Yoshinaka"
+  LanguageName = "日本語"
+  contentDir = "content/ja"
+  weight = 1
+
+  [[Languages.ja.menu.main]]
+  name = "ABOUT"
+  weight = 100
+  identifier = "about"
+  url = "/ja/"
+
+  [[Languages.ja.menu.main]]
+  name = "NEWS"
+  weight = 200
+  identifier = "news"
+  url = "/ja/post/"
+
+  [[Languages.ja.menu.main]]
+  name = "CONTACT"
+  weight = 300
+  identifier = "contact"
+  url = "/contact/"

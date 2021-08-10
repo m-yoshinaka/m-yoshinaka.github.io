@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/post/</loc>
+    <lastmod>2021-03-09T12:11:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/</loc>
+    <lastmod>2021-03-09T12:11:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/post/20210309/</loc>
+    <lastmod>2021-03-09T12:11:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/post/20210309/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/post/20210309/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/post/20200320/</loc>
+    <lastmod>2020-03-20T19:29:41+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/post/20200320/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/post/20200320/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/post/20200212/</loc>
+    <lastmod>2020-02-12T15:04:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/post/20200212/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/post/20200212/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://m-yoshinaka.github.io/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/tags/"
+                />
+  </url>
+  
+</urlset>
