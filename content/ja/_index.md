@@ -31,6 +31,7 @@ author: "Masato Yoshinaka"
   *In Proceedings of the 12th International Conference on Language Resources and Evaluation
   ([LREC2020](https://lrec2020.lrec-conf.org/en/))*, pp.6863-6869. May 2020.
   **[[PDF]](https://www.aclweb.org/anthology/2020.lrec-1.847/)**
+  **[[Code]](https://github.com/m-yoshinaka/sapphire)**
 
 #### 全国大会・シンポジウム (査読なし)
 * 吉仲真人, 梶原智之, 荒瀬由紀.

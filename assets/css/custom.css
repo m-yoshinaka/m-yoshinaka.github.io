@@ -43,8 +43,7 @@ html {
 
 body {
   color: var(--body-color);
-  font-family: 'Noto Sans JP', 'Lato', 'Meiryo', sans-serif;
-  /* font-family: 'Yu Mincho', serif; */
+  font-family: 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   width: 100%;
 }
 
