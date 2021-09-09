@@ -94,4 +94,4 @@ pygmentsCodefencesGuessSyntax = true
   name = "CONTACT"
   weight = 300
   identifier = "contact"
-  url = "/contact/"
+  url = "/ja/contact/"

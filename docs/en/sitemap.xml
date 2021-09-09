@@ -79,6 +79,16 @@
   
   <url>
     <loc>https://m-yoshinaka.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://m-yoshinaka.github.io/ja/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-yoshinaka.github.io/contact/"
+                />
   </url>
   
   <url>
