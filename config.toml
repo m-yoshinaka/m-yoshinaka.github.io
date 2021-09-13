@@ -21,15 +21,15 @@ pygmentsCodefencesGuessSyntax = true
   title = "Masato Yoshinaka"
   description = "Second-year master’s student in Osaka University"
   author = "Masato Yoshinaka"
-  copyright = "2019-2021"
+  copyright = "2021 Masato Yoshinaka All Rights Reserved"
   profilePicture = "images/icon.jpg"
   mainSections = [""]
   customCss = ["css/custom.css"]
   doNotLoadAnimations = true
 
-  singleDateFormat = "2006-01-02"
-  indexDateFormat = "2006-01-02"
-  listDateFormat = "2006-01-02"
+  singleDateFormat = "Jan 02, 2006"
+  indexDateFormat = "Jan 02, 2006"
+  listDateFormat = "Jan 02"
 
   gtagId = "G-ZLNB31L9E0"
 
