@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html
+  dir="{{ .Site.Language.LanguageDirection | default "ltr" }}"
+  lang="{{- site.Language.Lang -}}"
+  data-theme="{{- .Site.Params.displayMode -}}"
+>
+  {{- partial "head.html" . -}}
+  <body>
+    <header>
+      {{ partial "navbar.html" . }}
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap" rel="stylesheet">
+    </header>
+    <div class="wrapper">
+      <aside>
+        {{- partial "sidebar.html" . -}}
+      </aside>
+      <main>
+        <div class="autopagerize_page_element">
+          <div class="content">
+            {{- block "main" . }}{{- end }}
+          </div>
+        </div>
+      </main>
+    </div>
+
+    {{- partial "footer.html" (dict "context" . "footerClassModifier" "base") -}}
+
+    {{- if (eq .Site.Params.simpleAnalytics.enable true) -}}
+      {{- partial "analytics/simpleanalytics.html" . -}}
+
+
+    {{- end -}}
+  </body>
+</html>

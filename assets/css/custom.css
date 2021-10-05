@@ -38,13 +38,14 @@ html[data-theme='dark'] {
 }
 
 html {
-  font-size: 67.5%;
+  font-size: 70%;
 }
 
 body {
   color: var(--body-color);
-  font-family: 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  font-family: 'M PLUS 1p', 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   width: 100%;
+  transform:rotate(0.03deg);
 }
 
 .sidebar .logo-title .title a {
