@@ -1,97 +1,57 @@
 baseURL = "https://m-yoshinaka.github.io/"
+title = "Masato YOSHINAKA"
+theme = "gokarna"
 languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Website of Masato Yoshinaka"
-theme = "anatole"
-
+defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 hasCJKLanguage = true
 
-paginate = 3
-summarylength = 10
-
-# Syntax highlighting
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "monokai"
 
 [params]
-
-  title = "Masato Yoshinaka"
+  footer = "Masato Yoshinaka All Rights Reserved"
   description = "Second-year master’s student in Osaka University"
-  author = "Masato Yoshinaka"
-  copyright = "2019-2021 Masato Yoshinaka All Rights Reserved"
-  profilePicture = "images/icon.jpg"
-  mainSections = [""]
-  customCss = ["css/custom.css"]
-  doNotLoadAnimations = true
+  avatarURL = "/images/profile.jpg"
+  avatarSize = "size-s"
+  accentColor = "#81a1c1"
+  showPostsOnHomePage = "recent"
+  customHeadHTML = """
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLZ3G11HP5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  singleDateFormat = "Jan 02, 2006"
-  indexDateFormat = "Jan 02, 2006"
-  listDateFormat = "Jan 02"
-
-  gtagId = "G-LRKSMKTN3S"
-
-  # Social links
-  [[params.socialIcons]]
-    icon = "fab fa-github"
-    title = "GitHub"
-    url = "https://github.com/m-yoshinaka"
-
-  [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "e-mail"
-    url = "mailto:yoshinaka.masato[at]ist.osaka-u.ac.jp"
+      gtag('config', 'G-CLZ3G11HP5');
+    </script>
+  """
 
 [menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
   [[menu.main]]
-  name = "ABOUT"
-  identifier = "about"
-  weight = 100
-  url = "/"
+    name = "About"
+    url = "/about/"
+    weight = 3
 
   [[menu.main]]
-  name = "NEWS"
-  weight = 200
-  identifier = "news"
-  url = "/post/"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
 
   [[menu.main]]
-  name = "CONTACT"
-  weight = 300
-  identifier = "contact"
-  url = "/contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 
-[Languages]
 
-  [Languages.en]
-  title = "Masato Yoshinaka"
-  LanguageName = "English"
-  contentDir = "content/en"
-  weight = 2
-
-  [Languages.ja]
-  title = "Masato Yoshinaka"
-  LanguageName = "日本語"
-  contentDir = "content/ja"
-  weight = 1
-
-  [[Languages.ja.menu.main]]
-  name = "ABOUT"
-  weight = 100
-  identifier = "about"
-  url = "/ja/"
-
-  [[Languages.ja.menu.main]]
-  name = "NEWS"
-  weight = 200
-  identifier = "news"
-  url = "/ja/post/"
-
-  [[Languages.ja.menu.main]]
-  name = "CONTACT"
-  weight = 300
-  identifier = "contact"
-  url = "/ja/contact/"
+  [[menu.main]]
+    identifier = "github"
+    pre = "<span data-feather='github'></span>"
+    url = "https://github.com/m-yoshinaka"
+    weight = 5
