@@ -43,9 +43,8 @@ html {
 
 body {
   color: var(--body-color);
-  font-family: 'M PLUS 1p', 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  font-family: 'M PLUS 1p', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   width: 100%;
-  transform:rotate(0.03deg);
 }
 
 .sidebar .logo-title .title a {
