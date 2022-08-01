@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Masato Yoshinaka All Rights Reserved"
-  description = "Second-year master’s student in Osaka University"
+  description = "Alumnus of Osaka University"
   avatarURL = "/images/profile.jpg"
   avatarSize = "size-s"
   accentColor = "#81a1c1"
@@ -40,7 +40,7 @@ pygmentsStyle = "monokai"
     weight = 3
 
   [[menu.main]]
-    name = "Posts"
+    name = "Publications"
     url = "/posts/"
     weight = 3
 

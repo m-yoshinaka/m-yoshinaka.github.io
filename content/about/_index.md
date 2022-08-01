@@ -6,8 +6,7 @@ type: page
 ## Masato YOSHINAKA
 吉仲 真人
 
-Second-year master's student in
-[Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/),
+Alumnus of [Onizuka Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/),
 Graduate School of Information Science and Technology,
 [Osaka University](https://www.osaka-u.ac.jp/en), Japan &nbsp; :jp:
 
@@ -47,5 +46,6 @@ Graduate School of Information Science and Technology,
     **[[Poster]](/pdf/yans2019_yoshinaka.pdf)**
 
 ## Educations
+- Master of Information Science, Osaka University, Osaka, Japan. (2022)
 - Bachelor of Engineering, Osaka University, Osaka, Japan. (2020)
 - Kurashiki Minami High School, Okayama, Japan. (2016)
